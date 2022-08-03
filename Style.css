@@ -1,0 +1,13 @@
+/* goolge font  */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Poppins:ital@0;1&family=Raleway&display=swap');
+
+.carousel-img {
+    filter: brightness(40%);
+    height: 100vh;
+
+}
+
+.carousel-h1 {
+    font-size: 3.4375em
+}
