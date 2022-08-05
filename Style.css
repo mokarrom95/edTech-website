@@ -16,6 +16,54 @@
     height: 300px;
 }
 
+.student {
+    margin-top: 80px;
+}
+
+.working {
+    margin-top: 80px;
+}
+
+.feedback {
+    margin-top: 60px;
+}
+
+.question {
+    margin-top: 80px;
+}
+
+.courses {
+    margin-top: 80px;
+}
+
+.registration {
+    margin-top: 80px;
+}
+
+.footer {
+    margin-top: 100px;
+    height: 400px;
+    padding-top: 120px;
+}
+
+.company {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer p {
+    color: #E8E8E8;
+}
+
+.fa-brands {
+    margin-left: 30px;
+}
+
+
 
 
 @media screen and (min-width: 688px) and (max-width: 992px) {
@@ -33,6 +81,11 @@
 
     }
 
+    .feedback2 {
+        margin-top: 15px;
+    }
+
+
 }
 
 @media screen and (max-width: 687px) {
@@ -45,4 +98,9 @@
         padding: 0;
 
     }
+
+    .feedback2 {
+        margin-top: 15px;
+    }
+
 }
