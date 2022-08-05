@@ -12,8 +12,37 @@
     font-size: 3.4375em
 }
 
+.register-text {
+    height: 300px;
+}
+
+
+
 @media screen and (min-width: 688px) and (max-width: 992px) {
     .work img {
         height: 667px;
+    }
+
+    .register-text {
+        padding-left: 20px;
+        text-align: center;
+    }
+
+    .register {
+        padding: 0;
+
+    }
+
+}
+
+@media screen and (max-width: 687px) {
+    .register-text {
+        padding-left: 20px;
+        text-align: center;
+    }
+
+    .register {
+        padding: 0;
+
     }
 }
